@@ -1,3 +1,6 @@
+### This is my repo now, Capitan
+
+
 ### ThePrimeagen's init.lua
 Prerequisite: install [ripgrep](https://github.com/BurntSushi/ripgrep).
 
